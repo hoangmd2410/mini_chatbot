@@ -1,0 +1,11 @@
+llama-index
+gradio
+PyPDF2
+llama-index-embeddings-ollama
+llama-index-core
+llama-index-readers-file
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+fastembed
+llama-index-llms-openai
